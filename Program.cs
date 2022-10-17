@@ -26,7 +26,6 @@ string[] newArray(string[] array3)
           if (array3[k].Length < 4) arLength++;
      }
      string[] shortArray = new string[arLength];
-
      int numofShortAr = 0;
      for (int n = 0; n < array3.Length; n++)
      {
@@ -35,12 +34,10 @@ string[] newArray(string[] array3)
                shortArray[numofShortAr] = array3[n];
                numofShortAr++;
           }
-
      }
-     Console.WriteLine(arLength);
      return shortArray;
 }
 string[] shortArr = newArray(array2);
 Console.Write("[\"");
-Console.Write(String.Join("\" \"", shortArr));
+Console.Write(String.Join("\", \"", shortArr));
 Console.Write("\"]");

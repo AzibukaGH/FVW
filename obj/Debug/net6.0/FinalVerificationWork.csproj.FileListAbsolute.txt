@@ -1,0 +1,15 @@
+A:\Learnig\geekBrains\FinalVerificationWork\bin\Debug\net6.0\FinalVerificationWork.exe
+A:\Learnig\geekBrains\FinalVerificationWork\bin\Debug\net6.0\FinalVerificationWork.deps.json
+A:\Learnig\geekBrains\FinalVerificationWork\bin\Debug\net6.0\FinalVerificationWork.runtimeconfig.json
+A:\Learnig\geekBrains\FinalVerificationWork\bin\Debug\net6.0\FinalVerificationWork.dll
+A:\Learnig\geekBrains\FinalVerificationWork\bin\Debug\net6.0\FinalVerificationWork.pdb
+A:\Learnig\geekBrains\FinalVerificationWork\obj\Debug\net6.0\FinalVerificationWork.csproj.AssemblyReference.cache
+A:\Learnig\geekBrains\FinalVerificationWork\obj\Debug\net6.0\FinalVerificationWork.GeneratedMSBuildEditorConfig.editorconfig
+A:\Learnig\geekBrains\FinalVerificationWork\obj\Debug\net6.0\FinalVerificationWork.AssemblyInfoInputs.cache
+A:\Learnig\geekBrains\FinalVerificationWork\obj\Debug\net6.0\FinalVerificationWork.AssemblyInfo.cs
+A:\Learnig\geekBrains\FinalVerificationWork\obj\Debug\net6.0\FinalVerificationWork.csproj.CoreCompileInputs.cache
+A:\Learnig\geekBrains\FinalVerificationWork\obj\Debug\net6.0\FinalVerificationWork.dll
+A:\Learnig\geekBrains\FinalVerificationWork\obj\Debug\net6.0\refint\FinalVerificationWork.dll
+A:\Learnig\geekBrains\FinalVerificationWork\obj\Debug\net6.0\FinalVerificationWork.pdb
+A:\Learnig\geekBrains\FinalVerificationWork\obj\Debug\net6.0\FinalVerificationWork.genruntimeconfig.cache
+A:\Learnig\geekBrains\FinalVerificationWork\obj\Debug\net6.0\ref\FinalVerificationWork.dll
